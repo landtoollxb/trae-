@@ -11,7 +11,7 @@ docker push youharbor.domain.com/k8s/quay.io/kubespray/kubespray:v2.21.0
 Linux localhost.localdomain 4.19.90-52.22.v2207.ky10.x86_64 #1 SMP Tue Mar 14 12:19:10 CST 2023 x86_64 x86_64 x86_64 GNU/Linux
 
 
-
+-------------------------------------
 
 
 
